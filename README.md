@@ -1,4 +1,4 @@
-# CI Example Repository 
+# CI Workshop Repository 
 
 Respository used during the Byte-Sized RSE workshop on Continuous Integration (CI). 
 
